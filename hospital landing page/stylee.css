@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+.container{
+    background-color: aquamarine;
+    width: 100%;
+    height: 750px;
+    display: flex;
+}
+.left{
+    background-color: antiquewhite;
+    width: 50%;
+    height: 750px;
+}
+.right{
+    background-color: burlywood;
+    width: 50%;
+    height: 750px;
+}
+.box-left{
+    display: flex;
+}
+/* .box-left div{
+    width: 200px;
+    height: 150px;
+    background-color: black;
+    box-sizing: border-box;
+    margin: 20px;
+} */
+.box-right{
+    width: 500px;
+    height: 525px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 20px;
+}
+.aa{
+    width: 200px;
+    height: 150px;
+    background-color: black;
+    box-sizing: border-box;
+    margin: 20px;
+}
